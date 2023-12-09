@@ -59,19 +59,6 @@
 
 #
 
-### **⚠ WOULD YOU LIKE TO BUY ME A CUP OF COFFEE?**
-
-#### BTC
-
-![bc1q60ggpklcw2jscmnwwgh5ls5afrntyt7trqy4l5](https://github.com/nsmttodev4/Everspy/assets/146154099/05b7879a-9d0d-44cd-8faf-10f28077f85c)
-
-#### USDT TRC20
-
-![TA66aX9YowENi6xFX4hSoXfvVLmbZdBjD1](https://github.com/nsmttodev4/Everspy/assets/146154099/6e01c110-2398-4298-9ce0-c6d914e434ae)
-
-  
-  
-
 ### **⚠ DEVELOPER**
 
 ![IMG_7940](https://github.com/nsmttodev8/EverspyUltimate/assets/153156016/3c4388a4-a4b5-4bf3-a358-aa1cbf8367b7)
