@@ -40,8 +40,6 @@
 
 ###### By using Everspy, you agree to abide by these concise and clear terms.
 
-## EVERSPY ULTIMATE FEATURES
-
 #
 ![photo_2023-12-06_20-20-15](https://github.com/nsmttodev8/EverspyUltimate/assets/153156016/7a1f3285-c8d5-49d8-b51d-448a38219249)
 
@@ -50,10 +48,7 @@
 ![Screenshot 2023-12-06 202917](https://github.com/nsmttodev8/EverspyUltimate/assets/153156016/eae59cf4-901f-4f68-9b0f-53d9c3f9c399)
 #
 
-
 ### ⚠ WARNING: IDENTIFYING SCAMMERS
-
-  
 
 - Exercise caution on Telegram to detect potential scammers. For detailed guidance on identification, consult the current [scammer list](https://telegra.ph/Warning-Scammers-11-29) available here.
 
@@ -75,6 +70,8 @@
 
 #
 
-  
 
+
+
+  
 ##### ©2020-2023 Reserved all rights to Everspy Ultimate.
