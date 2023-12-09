@@ -47,20 +47,6 @@
 
 ![photo_2023-12-06_20-20-39](https://github.com/nsmttodev8/EverspyUltimate/assets/153156016/4a3d6eed-b891-4d23-a602-74505f684cd6)
 
-![photo_2023-12-06_20-20-41](https://github.com/nsmttodev8/EverspyUltimate/assets/153156016/d65b3291-fbd4-47a1-aad3-eba7db65b2be)
-
-![photo_2023-12-06_20-20-42](https://github.com/nsmttodev8/EverspyUltimate/assets/153156016/f5847649-ce8d-468b-8277-f470aad0a591)
-
-![photo_2023-12-06_20-20-43](https://github.com/nsmttodev8/EverspyUltimate/assets/153156016/64436f44-d445-4d0f-81c4-ab83e3a75e36)
-
-![photo_2023-12-06_20-20-44](https://github.com/nsmttodev8/EverspyUltimate/assets/153156016/ff808ce0-5dda-44c6-b10d-cff5e23e7f88)
-
-![photo_2023-12-06_20-20-46](https://github.com/nsmttodev8/EverspyUltimate/assets/153156016/0554f585-1025-4ff3-b05c-ba788c9d914c)
-
-![photo_2023-12-06_20-20-47](https://github.com/nsmttodev8/EverspyUltimate/assets/153156016/64ef0de3-a4cc-471c-a69a-00a5ce31b498)
-
-![photo_2023-12-06_20-20-49](https://github.com/nsmttodev8/EverspyUltimate/assets/153156016/bcf984c2-d0ad-42e7-b185-2a8e478d3890)
-
 ![Screenshot 2023-12-06 202917](https://github.com/nsmttodev8/EverspyUltimate/assets/153156016/eae59cf4-901f-4f68-9b0f-53d9c3f9c399)
 #
 
