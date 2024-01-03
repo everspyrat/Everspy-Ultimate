@@ -86,13 +86,9 @@
 ### **DEVELOPER**
 ![IMG_7940](https://github.com/nsmttodevelop/Everspy-Ultimate/assets/153394180/75aaebde-f492-4a18-ad5b-6de3daa0e04a)
 
-- [nsmttodev](https://t.me/nsmttodev)
 
-- [wannacry777](https://t.me/wannacry777)
-
-- [codepeace](https://t.me/codepeace)
-
-- [aix33](https://t.me/aix33)
+- [Everspy BOT](https://t.me/EverspyMarketBot)
+- [Developer Channel](https://t.me/EverspyRatAndroid)
 
 #
 
