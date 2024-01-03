@@ -71,7 +71,7 @@
 
 ###### **10. Contact:**
 
-###### For questions or concerns, please [contact us](https://t.me/nsmttodev).
+###### For questions or concerns, please [contact us](https://t.me/everspymarketbot).
 
   
 
