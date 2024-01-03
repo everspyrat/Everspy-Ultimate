@@ -84,7 +84,6 @@
 ![Screenshot 2023-12-06 202917](https://github.com/nsmttodev8/EverspyUltimate/assets/153156016/eae59cf4-901f-4f68-9b0f-53d9c3f9c399)
 #
 ### **DEVELOPER**
-![IMG_7940](https://github.com/nsmttodevelop/Everspy-Ultimate/assets/153394180/75aaebde-f492-4a18-ad5b-6de3daa0e04a)
 
 
 - [Everspy BOT](https://t.me/EverspyMarketBot)
