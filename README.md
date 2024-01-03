@@ -77,11 +77,9 @@
 
 ###### By using Everspy Ultimate, you are committed to the online safety and protection of your children. Thank you for choosing Everspy Ultimate for parental control.
 #
-![Screenshot 2023-12-19 162329](https://github.com/nsmttodevelop/Everspy-Ultimate/assets/153394180/c1c14d20-d21f-46fd-a43a-3c61102ea51f)
+![Screenshot 2024-01-02 174917](https://github.com/everspyrat/Everspy-2024/assets/153394180/47a28b5a-0767-4df0-930e-85ffda106bf8)
 
-![Screenshot 2023-12-19 162337](https://github.com/nsmttodevelop/Everspy-Ultimate/assets/153394180/e3f6c5e5-11c3-4bac-8be0-a2c96ed2585d)
-
-![Screenshot 2023-12-06 202917](https://github.com/nsmttodev8/EverspyUltimate/assets/153156016/eae59cf4-901f-4f68-9b0f-53d9c3f9c399)
+![Screenshot 2024-01-02 174925](https://github.com/everspyrat/Everspy-2024/assets/153394180/6d687492-8de9-45fe-8315-c41b01e9d456)
 #
 ### **DEVELOPER**
 
