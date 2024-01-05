@@ -1,23 +1,23 @@
 
 
-# Everspy Ultimate
+# EVERSPY OBSIDIAN - PARENTAL CONTROL
 ### Parental Monitoring App
 ##### Protect your children from cyberbullying, online predators, inappropriate and violent content, and other online dangers. Monitor all your child's activities on the phone wherever you are!
 
 #
 
 ### Terms of Use
-##### Everspy Ultimate: Cell Monitoring App for Parental Control
+##### Everspy Black Obsidian: Cell Monitoring App for Parental Control
 
   
 
-###### Welcome to the Terms of Use of Everspy Ultimate! This cell monitoring app was developed to provide effective parental control, protecting your children from cyberbullying, online predators, inappropriate and violent content, and other online dangers. Please read the following terms carefully before using Everspy Ultimate.
+###### Welcome to the Terms of Use of Everspy Black Obsidian! This cell monitoring app was developed to provide effective parental control, protecting your children from cyberbullying, online predators, inappropriate and violent content, and other online dangers. Please read the following terms carefully before using Everspy Black Obsidian.
 
   
 
 ###### **1. Purpose of the App:**
 
-###### Everspy Ultimate aims to assist parents in monitoring their children's online activities to protect them from virtual threats.
+###### Everspy Black Obsidian aims to assist parents in monitoring their children's online activities to protect them from virtual threats.
 
   
 
@@ -29,37 +29,37 @@
 
 ###### **3. Activity Monitoring:**
 
-###### By using Everspy Ultimate, you agree that the app will monitor all activities on your child's cell phone.
+###### By using Everspy Black Obsidian, you agree that the app will monitor all activities on your child's cell phone.
 
   
 
 ###### **4. Parental Responsibility:**
 
-###### Parents or legal guardians agree to use Everspy Ultimate as a parental control tool, taking responsibility for its proper use.
+###### Parents or legal guardians agree to use Everspy Black Obsidian as a parental control tool, taking responsibility for its proper use.
 
   
 
 ###### **5. Privacy:**
 
-###### We respect the privacy of all users. The information collected by Everspy Ultimate is strictly used to provide monitoring services and will not be shared with third parties.
+###### We respect the privacy of all users. The information collected by Everspy Black Obsidian is strictly used to provide monitoring services and will not be shared with third parties.
 
   
 
 ###### **6. Updates and Modifications:**
 
-###### Everspy Ultimate may be periodically updated to improve its performance. We reserve the right to make modifications or additions to the services offered.
+###### Everspy Black Obsidian may be periodically updated to improve its performance. We reserve the right to make modifications or additions to the services offered.
 
   
 
 ###### **7. Acceptance of Terms:**
 
-###### By using Everspy Ultimate, you indicate your unrestricted acceptance of these Terms of Use.
+###### By using Everspy Black Obsidian, you indicate your unrestricted acceptance of these Terms of Use.
 
   
 
 ###### **8. Responsible Use:**
 
-###### Everspy Ultimate is intended to be used ethically and responsibly. The user agrees not to use the app for illegal or unethical purposes.
+###### Everspy Black Obsidian is intended to be used ethically and responsibly. The user agrees not to use the app for illegal or unethical purposes.
 
   
 
@@ -75,7 +75,7 @@
 
   
 
-###### By using Everspy Ultimate, you are committed to the online safety and protection of your children. Thank you for choosing Everspy Ultimate for parental control.
+###### By using Everspy Black Obsidian, you are committed to the online safety and protection of your children. Thank you for choosing Everspy Black Obsidian for parental control.
 #
 ![Screenshot 2024-01-02 174917](https://github.com/everspyrat/Everspy-2024/assets/153394180/47a28b5a-0767-4df0-930e-85ffda106bf8)
 
@@ -95,4 +95,4 @@
 
 
   
-##### ©2020-2024 Reserved all rights to Everspy Ultimate.
+##### ©2020-2024 Reserved all rights to Everspy Black Obsidian.
